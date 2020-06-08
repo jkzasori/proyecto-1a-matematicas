@@ -15,7 +15,7 @@ Seguir estas instrucciones
 
 ```
 // Importar el módulo
-const m = require('.');
+const m = require('proyecto-1a-matematicas-jkzasori');
 
 // Operaciones
 
